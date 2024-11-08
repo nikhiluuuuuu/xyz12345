@@ -1,0 +1,11 @@
+git init
+git status
+git add *
+git commit -m "initial commit"
+git config --global user.name "user-name"
+git congif --global user.email "user-email"
+git branch -m Main
+git remote add origin 
+https://github.com/yourname/yourrepo.git
+git push -u origin main
+
